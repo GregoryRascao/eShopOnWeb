@@ -9,7 +9,7 @@ env:
   LOCATION: francecentral
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 61d6ed0c-f2a7-4bf2-886d-50cca619f20b
-  WEBAPP-NAME: devops-webapp-francecentral-
+  WEBAPP-NAME: devops-webapp-francecentral-1
 
 jobs:
   #Build, test and publish .net web project in repository
